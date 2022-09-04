@@ -1,0 +1,5 @@
+C:\Users\79209\Documents\Gruppa3122\GR3122FerstProgramming\GR3122FerstProgramming\Sem1Task5\obj\Debug\net6.0\Sem1Task5.csproj.AssemblyReference.cache
+C:\Users\79209\Documents\Gruppa3122\GR3122FerstProgramming\GR3122FerstProgramming\Sem1Task5\obj\Debug\net6.0\Sem1Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79209\Documents\Gruppa3122\GR3122FerstProgramming\GR3122FerstProgramming\Sem1Task5\obj\Debug\net6.0\Sem1Task5.AssemblyInfoInputs.cache
+C:\Users\79209\Documents\Gruppa3122\GR3122FerstProgramming\GR3122FerstProgramming\Sem1Task5\obj\Debug\net6.0\Sem1Task5.AssemblyInfo.cs
+C:\Users\79209\Documents\Gruppa3122\GR3122FerstProgramming\GR3122FerstProgramming\Sem1Task5\obj\Debug\net6.0\Sem1Task5.csproj.CoreCompileInputs.cache
